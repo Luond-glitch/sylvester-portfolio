@@ -1,0 +1,7 @@
+export default [
+  { title: 'Programme Director · ARHICA', tag: 'Current', link: 'https://www.arhica.org/', linkText: 'arhica.org',
+    text: 'AfriResilience Hub for Inclusive Climate Action, empowering youth, women, persons with disabilities and vulnerable communities across the Lake Victoria Basin. Programme development and coordination, climate and environmental initiatives, partnerships, and blue economy work. Programme areas include SamakiLog, climate-resilient root crops (Orange-Fleshed Sweet Potatoes), fish cage enterprises, apiculture, environmental restoration, GESI, youth empowerment and climate education.' },
+  { title: 'Chairperson · CHIMA Organisation', text: 'Chipukizi wa Mazingira: climate resilience, environmental conservation and sustainable livelihoods in Arid and Semi-Arid Lands (ASALs). Strategic leadership, programme oversight, partnerships, governance, transparency and accountability. Website: [to be supplied]' },
+  { title: 'Chairperson · CUK SDGs Club', tag: '2026–2027', text: 'Leading a university-based sustainable development club: promoting the SDGs, student mobilisation, environmental awareness, partnerships and student innovation.' },
+  { title: 'Campus Director · MCN-UNAI Programme', tag: '2025–2026', text: 'Student leadership and coordination with the Millennium Campus Network and United Nations Academic Impact, supporting student-led SDG projects and capacity building at the Co-operative University of Kenya.' },
+]
